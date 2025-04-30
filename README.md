@@ -1,7 +1,5 @@
 # GymCentric - Modern Gym Management System
 
-![GymCentric Logo](public/img/logo.png)
-
 ## Overview
 
 GymCentric is a comprehensive gym management system designed to streamline operations for fitness facilities of all sizes. Built with Laravel and modern web technologies, this application provides a powerful set of tools for managing memberships, staff, facilities, bookings, and finances.
@@ -54,12 +52,6 @@ GymCentric is a comprehensive gym management system designed to streamline opera
 - **Authentication**: Laravel Fortify, WebAuthn for passwordless authentication
 - **Messaging**: Mailjet (emails), Semaphore (SMS)
 - **Future Integration**: Payment gateway integration (planned for future releases)
-
-## Screenshots
-
-![Dashboard](public/img/screenshots/dashboard.png)
-![Member Management](public/img/screenshots/members.png)
-![Booking System](public/img/screenshots/bookings.png)
 
 ## Installation and Setup
 
