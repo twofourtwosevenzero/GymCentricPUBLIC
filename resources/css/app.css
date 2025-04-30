@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '@fontsource/roboto/index.css';
+@import '@fontsource/inter';
+@import 'framework7/css/framework7.bundle.css';
+
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
